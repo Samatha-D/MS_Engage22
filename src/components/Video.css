@@ -1,0 +1,11 @@
+.newVideoContainer{
+    padding: 4vh;
+    height: 88vh;
+}
+
+.btn-new-video{
+    background: #e62117;
+}
+.card-deck{
+    margin-right: 0px !important;
+  }

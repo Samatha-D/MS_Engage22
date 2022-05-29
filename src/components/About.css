@@ -1,0 +1,12 @@
+.aboutContainer{
+    padding: 24px;
+}
+
+.detailsPara{
+    margin-top: 10px;
+    /* white-space: pre; */
+}
+
+.image{
+    height: 200px;
+}
