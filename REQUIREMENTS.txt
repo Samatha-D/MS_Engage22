@@ -1,0 +1,7 @@
+opencv-python==4.5.5
+mediapipe
+SpeechRecognition
+PyAudio==0.2.11 
+tensorflow
+numpy
+keras==2.7.0
